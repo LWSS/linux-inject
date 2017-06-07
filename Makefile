@@ -1,4 +1,4 @@
-CC	= clang
+CC	= gcc
 CFLAGS	= -std=gnu99 -ggdb
 UNAME_M := $(shell uname -m)
 
